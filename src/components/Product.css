@@ -1,0 +1,38 @@
+.product{
+    background-color:var(--card-background);
+    width: 220px;
+    padding: 20px 16px;
+    border-radius: 12px;
+    position: relative; /*Ayuda para que los discount se posicionen a su padre osea a este product que es el cuadro blanco*/
+    overflow: hidden; /*Ayuda para que cuando pongo las etiquetas rojas en los bordes no se salga y quede redonda*/
+}
+
+.product__img{
+    border-radius: 12px;
+    display: block; /*para que se centre ya que img no es objeto de linea */
+    margin: auto; /*asi si funciona el margin auto*/
+
+}
+
+.product__name{
+    text-align: center;
+    font-size:18px;
+    margin-top: 14px;
+    color:var(--text)
+}
+
+.product__detail{
+    display:flex;
+    margin-top: 16px;
+    justify-content: space-between;
+    align-items: center;
+    color:var(--text);
+}
+
+.product__oldPrice{
+    text-decoration: line-through;
+}
+
+.product__price{
+    font-weight: bold;
+}

@@ -1,0 +1,59 @@
+[
+    {
+        "id":1,
+        "name": "Camiseta",
+        "price": 100,
+        "discount": 40,
+        "url": "https://picsum.photos/180"
+    },
+    {
+        "id":2,
+        "name": "Corbata",
+        "price": 200,
+        "discount": 70,
+        "url": "https://picsum.photos/180"
+    },
+    {
+        "id":3,
+        "name": "Chaqueta",
+        "price": 300,
+        "discount": 60,
+        "url": "https://picsum.photos/180"
+    },
+    {
+        "id":4,
+        "name": "Pantalon",
+        "price": 400,
+        "discount": 40,
+        "url": "https://picsum.photos/180"
+    },
+    {
+        "id":5,
+        "name": "Abrigo",
+        "price": 500,
+        "discount": 45,
+        "url": "https://picsum.photos/180"
+    },
+    {
+        "id":6,
+        "name": "Tennis",
+        "price": 550,
+        "discount": 65,
+        "url": "https://picsum.photos/180"
+    },
+    {
+        "id":7,
+        "name": "Chaleco",
+        "price": 350,
+        "discount": 90,
+        "url": "https://picsum.photos/180"
+    },
+    {
+        "id":8,
+        "name": "Sombrero",
+        "price": 350,
+        "discount": 90,
+        "url": "https://picsum.photos/180"
+    }
+
+]

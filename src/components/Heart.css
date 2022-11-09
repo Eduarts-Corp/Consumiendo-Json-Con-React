@@ -1,0 +1,10 @@
+.heart{
+    color:var(--main);
+    cursor:pointer;
+    
+}
+
+.fillHeart{
+    cursor:pointer;
+
+}
